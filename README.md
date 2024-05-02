@@ -15,3 +15,7 @@ This project is about a Hardware manufacturing company called AtliQ Hardware tha
 # Q3 Write a Query to find Net Invoice Sales
 
 ![Net Invoice Sales](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/b0aa2277-aaff-463d-b8f1-72c7f2bdbf7e)
+
+# Q4 Write a Query to find Net Sales
+
+![Query for Net Sales](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/c57a7dd5-d3d6-4540-811a-b21a6b5ba421)
