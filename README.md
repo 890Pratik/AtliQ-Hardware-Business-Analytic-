@@ -6,4 +6,9 @@ This project is about a Hardware manufacturing company called AtliQ Hardware tha
 
 ![Yearly and quarterly Sales Query](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/05146124-1f2b-4740-8b55-bb4eb653edb1)
 
-# Q2 
+# Q2 FInd Yearly Sales report of Croma Customer
+
+![Yearly Sales Report of Croma](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/a5f40c07-b1aa-41d8-bf69-69a0c529ce55)
+
+![Yearly wise Sales report](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/f2934aa7-d8d5-4b8b-8224-fe37c81a81b2)
+
