@@ -19,3 +19,10 @@ This project is about a Hardware manufacturing company called AtliQ Hardware tha
 # Q4 Write a Query to find Net Sales
 
 ![Query for Net Sales](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/c57a7dd5-d3d6-4540-811a-b21a6b5ba421)
+
+
+# Q5 Stored procedure to find Top N market and Customer in terms of Net Sales
+
+![Stored procedure Net Sales](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/653e42cc-26e8-426d-a23c-cf5e3971ea10)
+
+![Stored procedure for customer](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/26b404de-bd29-49b3-982a-ecfb87359e8e)
