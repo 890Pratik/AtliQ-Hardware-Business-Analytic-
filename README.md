@@ -31,4 +31,4 @@ This project is about a Hardware manufacturing company called AtliQ Hardware tha
 
 ![market share pct](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/748782ac-594e-4bf8-8411-881a224dce4a)
 
-![Market Share of top 10 customer](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/a3c1784f-1a4b-412e-8b5d-d60403d08b2f)
+
