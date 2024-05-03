@@ -32,3 +32,8 @@ This project is about a Hardware manufacturing company called AtliQ Hardware tha
 ![market share pct](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/748782ac-594e-4bf8-8411-881a224dce4a)
 
 ![Screenshot 2024-05-03 093300](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/2f824e05-1eaf-4a36-bd1b-60c7bf240ba7)
+
+# Q7 Region wise sales in million and market share in percenatge
+
+![Region_wise_sales_pct](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/b13c6a66-cb2b-41bb-9818-70432fa0423b)
+
