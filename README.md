@@ -26,3 +26,7 @@ This project is about a Hardware manufacturing company called AtliQ Hardware tha
 ![Stored procedure Net Sales](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/653e42cc-26e8-426d-a23c-cf5e3971ea10)
 
 ![Stored procedure for customer](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/26b404de-bd29-49b3-982a-ecfb87359e8e)
+
+# Q6 Window function to display market share of customer in persentage of Total Net Sales
+
+![market share pct](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/748782ac-594e-4bf8-8411-881a224dce4a)
