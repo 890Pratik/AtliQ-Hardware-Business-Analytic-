@@ -37,3 +37,4 @@ This project is about a Hardware manufacturing company called AtliQ Hardware tha
 
 ![Region_wise_sales_pct](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/b13c6a66-cb2b-41bb-9818-70432fa0423b)
 
+![Screenshot 2024-05-03 094215](https://github.com/890Pratik/AtliQ-Hardware-Business-Analytic-/assets/114496901/41c34946-dc0a-415c-97d8-ed5decfe67cb)
